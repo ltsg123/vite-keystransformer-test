@@ -1,0 +1,1 @@
+{"code":"[];\r\nconst fooKeys = [];\r\nconsole.log(fooKeys[0]);\r\nconsole.log([][1]);\r\nconst fooBarOrBarBazKeys = [];\r\nfooBarOrBarBazKeys.forEach((key) => console.log(key));\r\nexport {};\r\n","references":["/Users/xsm/vite/vite-keystransformer/node_modules/ts-transformer-keys/index.d.ts"]}

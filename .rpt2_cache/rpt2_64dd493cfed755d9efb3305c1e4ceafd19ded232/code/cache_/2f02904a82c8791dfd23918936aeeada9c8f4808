@@ -1,0 +1,1 @@
+{"code":"import { render } from \"preact\";\r\nimport { App } from \"./app\";\r\nimport \"./index.css\";\r\nrender(/* @__PURE__ */ h(App, null), document.getElementById(\"app\"));\r\n","references":["/Users/xsm/vite/vite-keystransformer/node_modules/preact/src/index.d.ts","/Users/xsm/vite/vite-keystransformer/src/app.tsx"]}
